@@ -1,0 +1,62 @@
+* {
+	margin:0; 
+	padding:0
+}
+body {
+	background:#222222
+}
+form, input, textarea {
+	color:#fff; font-family:ariel
+}
+.box {
+	background:#161712; 
+	width:500px; 
+	margin:0 auto; 
+	padding:5px; 
+	position :relative; 
+	top:70px
+}
+h1 {
+	text-transform:uppercase; 
+	text-shadow:2px 3px 4px red; 
+	border-bottom:2px solid red; 
+	margin-bottom:10px; 
+	padding:7px
+}
+label {
+	display:block; 
+	border-bottom:1px solid #222222; 
+	border-top:1px solid #222222; 
+	padding:8px 0
+}
+.box label span {
+	float:left; 
+	width:100px; 
+	margin:2px; 
+	text-align:center; 
+	text-transform:uppercase
+}
+.box .input_text {
+	background:#161712; 
+	padding:8px 5px;  
+	border-bottom:1px solid #222222; 
+	border-top:1px solid #222222
+}
+.box .massage {
+	background:#161712; 
+	padding:5px;  
+	border-bottom:1px solid #222222; 
+	border-top:1px solid #222222;
+	height:120; 
+	width:350px; 
+	overflow:hidden
+}
+.box .button {
+	position:relative; 
+	left:350px; 
+	margin:10px 0; 
+	width:100px; 
+	background:red; 
+	text-transform:uppercase; 
+	border:#222222
+}

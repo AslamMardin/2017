@@ -1,0 +1,35 @@
+body {background:url(www.windows7themesfree.jpg)}
+#box {background:#161712 url(adsadjaks.ico) no-repeat 0px 100px; margin:0 auto; position:relative; top:50px;
+border:3px solid red; width:400px; padding:2px; position:relative; left:300px}
+h1 {font:26px Old English Text MT; text-align:center; border-bottom:2px solid #1c1c1c;
+margin:1px; color:white; text-shadow:-6px 5px 5px red; padding:5px}
+#box ul {list-style:none; display:block; width:300px;}
+#box li {text-decoration:none; display:block; border-top:1px solid #1c1c1c;
+border-bottom:1px solid #1c1c1c; padding:5px 20px; margin:0} 
+#box li a {text-decoration:none; text-transform:uppercase; color:white; width:300px;
+backgorund:#161712; display:block; font-size:18px;  }
+#box ul li ul {display:none}
+#box li:hover {background:#900; box-shadow:4px 2px 0 red}
+#box ul li:hover ul {display:block; position:absolute}
+#box li ul li {background:green; width:100px}
+#nav {margin:0; padding:0;}
+#nav ul{float:left; list-style:none; margin:0; padding:0;}
+#nav li{list-style:none; margin:0; padding:0; text-shadow:1px 1px 1px #000;border:2px solid white }
+#nav li a, #nav li a:link, #nav li a:visited{color:#fff; display:block; text-transform:uppercase; margin:0; padding:9px 15px 9px; font:bold 11px Arial, Times New Roman;}
+#nav li a:hover, #nav li a:active{background:#4a4d4c; color:#fff; padding:9px 15px 9px; text-decoration:none;}
+#nav li li a, #nav li li a:link, #nav li li a:visited{background:#000000; width:150px; color:#e5e3e3; text-transform:capitalize; float:none; margin:0; padding:3px 10px; border-bottom:1px solid #151f23; border-left:px solid #151f23; border-right:2px solid #151f23; font:normal 14px Georgia, Times New Roman;}
+#nav li li a:hover, #nav li li a:active{background:#4a4d4c; color:#fff; padding:3px 10px;}
+#nav li{float:left; padding:0;}
+#nav li ul{z-index:9999; position:absolute; left:-999em; height:auto; width:170px; margin:0; padding:0;}
+#nav li ul a{width:140px;}
+#nav li ul ul{margin:-24px 0 0 170px;}
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li.sfhover ul ul, #nav li.sfhover ul ul ul{left:-999em;}
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul, #nav li li li.sfhover ul{left:auto;}
+#nav li:hover, #nav li.sfhover{position:static;}
+form .text {display:block; background:#161712; border:1px solid red; padding:5px; margin:5px}
+input {color:white; font:10px ariel}
+form .password {background:#161712; border:1px solid red; padding:5px; margin:5px}
+input {color:white; font:10px ariel}
+form .submit {background:#161712; border:1px solid red; padding:5px; margin:5px}
+form {float:left}
+h2 {text-shadow:2px 1px 3px red; font: 38px Jokerman; margin:0; padding:0}

@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#page {width:960px; padding:2px; margin:0 auto; background:#000}
+body {
+	background:#000;
+	margin: 0px;
+	padding: 0px;
+}
+h1 {font:38px bold;font-family:chiller; color:#00F;
+border-bottom: 2px solid #00F; margin-bottom:10px;}
+h2 {text-transform:uppercase; color:#00F; font-style:italic; }
+img {border: 1px solid #F00}
+
+#header {height:100px; background:#161712; border-bottom:3px solid #1c1c1c} 
+#header h2 {padding:10px 0 0 10px }
+ul.ul {float:left; list-style:none}
+ul.ul li {float:left; margin: 10px; font-family:jokerman}
+ul.ul a {color:#F00; text-decoration:none;}
+ul.ul a:hover, a:visited,ul.ul li.active a {color:#639; font-size:24px}
+
+
+#content-primary {float:left; width:220px; border-right:5px #1c1c1c solid; height:447px; padding:10px; background:#333}
+#content-primary h1 {text-align:center; border:none}
+#content-primary h2 {color:#FFF; border-bottom:1px solid #F00; font-family:algerian; text-shadow:2px 1px 3px red; margin-bottom:8px; text-align:center}
+#form { background:#161712; padding:5px; margin-top:7px; width:200px;border: 1px solid red; margin-bottom:5px}
+ul.box {background:#171717; padding:0px;; border:2px #F00 solid; msrgin:2px; list-style:none; display:block; width:215px}
+ul.box li {list-style:none; border-top: 1px #F00 solid; border-bottom: 1px solid #F00; background:#333 }
+ul.box li a {display:block;text-decoration:none; color:#FFF; font:14px italic Verdana, Geneva, sans-serif; padding:2px}
+ul.box li a:hover, ul.box a:visited {color:#60C; background:#0FF;}
+.text {background:#000; color:#FFF; border: 1px solid red; font:11px Tahoma, Geneva, sans-serif; padding:3px;}
+.text:hover {border:1px solid #0FF}
+.submit {background:#000; color:#FFF; border:1px solid red; text-align:justify;}
+.submit:hover {border: 1px solid #0FF}
+
+
+#content-secondary {float:left; width: 489px;; border-right:5px #1c1c1c solid;height:447px; padding:10px; border-bottom:4px #1c1c1c solid; background:url(index.jpg) center}
+#content-secondary h2 { color:#F00}
+#content-secondary p {color:#F00; font-family:Tahoma, Geneva, sans-serif}
+
+
+#right {float:left; width:175px; height:447px; padding:10px; align:center; border-right:4px #1c1c1c solid; background:#333 }
+#right h1 {text-align:center; border:none}
+#right img {width:170px; margin:1px; height:95px}
+
+
+#footer {clear:left; background:#333; padding:24px}
+#footer a {color:red}
+#footer a:hover, #footer a:visited {color:#609}

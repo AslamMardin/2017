@@ -1,0 +1,43 @@
+#intro {width:960px; background: url(RealMadrid_Wallpaper1.jpg) no-repeat -100px  ;
+padding:5px; margin:10px;}
+a:hover {color:red; decoration:none; }
+a:active {color:red; }
+a:visited {color:blue; }
+a:link {color:blue; }
+#footer {background-color:black; border: 5px red solid; } 
+#top {padding:0 5px ; width:960px; float:left; padding-top:34px}
+#top li a {font-size: 1.1em; text-decoration:none;}
+#top li a:hover {color: red; }
+#footer {clear:left; }
+#top p {text-decoration:none; }
+#tkj {background:red ; padding:20px; height:70px; border:5px black solid;}
+table {background : url(adsadjaks.ico) no-repeat -78px 4px;}
+textarea {border: 5px red solid; }
+#page {height:1px; width:423px; padding:1px }
+ul#page {font-family:algerian;  }
+#page li {float:left; list-style:none; padding:5px; 
+border: blue 2px solid; margin-left:1px; background:red}
+#page li ul {display:none;}
+#page ul li a { color:#ffffff; text-decoration:none; 
+padding:8px}
+#page ul li a:hover {color:blue; padding:8px; border-top: 10px}
+#page li:hover ul {display:block; position: absolute; padding:4px 5px}
+#page li:hover li {float:none; font-size: 18px; padding:4px 5px}
+#page li:hover li a {color:green ; padding:4px 5px}
+#page li li a:hover {color: #617f8A; background:yellow; }
+.password {background:#262626; border:1px double #1c1c1c; font-size:11px;
+width:100%; padding:3px 7px}
+input {color:#ffffff}
+.text {background:#262626; border:1px double #1c1c1c; font-family:ariel;
+width:100%; padding:3px 7px}
+.button {background:#222222; border:1px double #1c1c1c; padding:3px 5px;  
+margin-right:5px}
+.reset {background:#222222; border:1px double #1c1c1c; padding:3px 5px;
+}
+a:hover .button {border:1px solid red}
+a:hover .reset {border:1px solid red}
+.massage {background:#262626; border:3px double #ddd;}
+.text:hover {border:1px solid red}
+.password:hover {border:1px solid red}
+ .massageplaceholder {color:red; font-weight:bold}
+

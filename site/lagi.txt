@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<link href='http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html' rel='canonical'/>
+<link href='https://plus.google.com/110287296639196484909' rel='publisher'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { (function(){function c(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var h=a?new c(a.responseStart):new c;window.jstiming={Timer:c,load:h};if(a){var b=a.navigationStart,e=a.responseStart;0<b&&e>=b&&(window.jstiming.srt=e-b)}if(a){var d=window.jstiming.load;0<b&&e>=b&&(d.tick("_wtsrt",void 0,b),d.tick("wtsrt_",
+"_wtsrt",e),d.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),d&&0<b&&(d.tick("_tbnd",void 0,window.chrome.csi().startE),d.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,d&&0<b&&(d.tick("_tbnd",void 0,window.external.startE),d.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(k){}})();window.tickAboveFold=function(c){var a=0;if(c.offsetParent){do a+=c.offsetTop;while(c=c.offsetParent)}c=a;750>=c&&window.jstiming.load.tick("aft")};var f=!1;function g(){f||(f=!0,window.jstiming.load.tick("firstScrollTime"))}window.addEventListener?window.addEventListener("scroll",g,!1):window.attachEvent("onscroll",g);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://www.jelajahinfo.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Jelajah Info - Atom" href="http://www.jelajahinfo.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Jelajah Info - RSS" href="http://www.jelajahinfo.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Jelajah Info - Atom" href="https://www.blogger.com/feeds/8757781088801393468/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Jelajah Info - Atom" href="http://www.jelajahinfo.com/feeds/8571527328343902090/comments/default" />
+<link href='http://2.bp.blogspot.com/-UvuKtruV3FA/VUbib-I-B2I/AAAAAAAAA5w/zmrjiqUf8Ic/s1600/mempercepat%2Bkoneksi%2Binternet.JPG' rel='image_src'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</title>
+<script src='http://code.jquery.com/jquery-2.0.3.min.js'></script>
+<meta content='Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC , Jelajah Info , Jelajah Info: Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC' name='keywords'/>
+<meta content='Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC' name='subject'/>
+<meta content='Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC' name='abstract'/>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+<meta content='nfajKOugyeI2uuuZbWhunrP_7E3BI_6D7ikbK3MUZsE' name='google-site-verification'/>
+<meta content='963dcf9bdaeb119332d1683d700dc0d9' name='p:domain_verify'/>
+<meta content='359A7ADB959E6C64C7B05FE0AD9B7D77' name='msvalidate.01'/>
+<meta content='jHorvW124s7RxqHOV_hazjyy5_4' name='alexaVerifyID'/>
+<meta content='indonesian' name='language'/>
+<meta content='id' name='geo.country'/>
+<meta content='indonesia' name='geo.placename'/>
+<meta content='Jelajah Info' name='author'/>
+<meta content='index,follow' name='robots'/>
+<meta content='2 days' name='revisit-after'/>
+<meta content='2 days' name='revisit'/>
+<meta content='never' name='expires'/>
+<meta content='always' name='revisit'/>
+<meta content='global' name='distribution'/>
+<meta content='blogger' name='generator'/>
+<meta content='general' name='rating'/>
+<meta content='true' name='MSSmartTagsPreventParsing'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='index, follow' name='googlebot'/>
+<meta content='follow, all' name='Googlebot-Image'/>
+<meta content='follow, all' name='msnbot'/>
+<meta content='follow, all' name='Slurp'/>
+<meta content='follow, all' name='ZyBorg'/>
+<meta content='follow, all' name='Scooter'/>
+<meta content='all' name='spiders'/>
+<meta content='all' name='WEBCRAWLERS'/>
+<meta content='aeiwi, alexa, alltheWeb, altavista, aol netfind, anzwers, canada, directhit, euroseek, excite, overture, go, google, hotbot. infomak, kanoodle, lycos, mastersite, national directory, northern light, searchit, simplesearch, Websmostlinked, webtop, what-u-seek, aol, yahoo, webcrawler, infoseek, excite, magellan, looksmart, bing, cnet, googlebot' name='search engines'/>
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3089089725-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8757781088801393468&zx=21df597f-18ff-42b3-a364-d8c25c61aa90' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+Name     :  SEO Elite (Premium)
+Designer :  BamZ
+URL      :  www.template.blogbamz.com
+Release  :  Agustus 2013
+*/
+body{font-family: sans-serif;
+font-size: 13px;
+color: #666;
+margin: 0;
+background: url("http://2.bp.blogspot.com/-2UuJssaXZoo/Uh5oncBuPuI/AAAAAAAAADM/guoVUoRA86o/s1600/bodybg.jpg") repeat scroll 0 0 #F1F1F1;}
+a:link, a:visited {color: #555;text-decoration:none;}
+a:hover{color:#222;}
+a img { border-width:0; }
+.left{float:left}
+.right{float:right}
+#wrapper{
+width: 845px;
+margin: 0 auto;
+background: #fff;
+margin-top: 20px;
+border: 5px solid #ddd;
+padding: 10px;
+}
+#branding {width:945px; }
+P.title {
+width:600px;
+font-size:200%;
+margin:10px 0 0;
+padding:0
+}
+P.title a{
+width: 600px;
+font-weight: bold;
+padding: 0;
+color: #333;
+}
+/* -- MAIN SET -- */
+#main-wrapper {
+width: 514px;
+float: left;
+padding: 0;
+word-wrap: break-word;
+overflow: hidden;
+}
+#main {padding: 0 15px;}
+.main .Blog { border-bottom-width: 0;}
+.clear {clear: both;}
+.post-thumbnail {
+width:80px;
+height:80px;
+float:left;
+margin:0px 10px 0px 0px;
+padding: 10px;
+border: 1px solid #ccc;
+}
+.main .widget {
+padding-left:25px;
+margin:0 0 0.2em;
+padding:0 0 0.2em;
+}
+.date-header {display: none !important;}
+.post margin: 0 0 .10em;
+color: #666;
+font-size: 14px;
+font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+line-height: 1.625;
+}
+.post h1 {margin: 0;font-size: 20px;}
+.post h2 {font-size: 110%;}
+.post h2 a:link,.post h2 a:visited{}
+.post h2 a:hover{}
+.post-body {
+margin: 0;
+line-height: 1.6em;
+text-align:justify
+}
+.post-body img, .post-body video, .post-body object {max-width: 100%;}
+.post-body blockquote { line-height:1.3em; }
+.post-body a{
+color:#65BDDF;
+text-decoration:none
+}
+.post-body h2{
+font-size: 120%;
+}
+.post blockquote{
+background: white url(http://4.bp.blogspot.com/-7N1CDVZhMsI/Uh56NUR6jgI/AAAAAAAAAEA/jVOWvhc1UQE/s1600/blockquote.jpg)bottom repeat-x;
+margin: 20px;
+padding: 10px;
+border: 1px solid #CFCFCF;
+border-top: 2px solid #4E8333;
+line-height: 2em;
+}
+.section {
+margin: 0;
+}
+.title {
+color: #4E8333;
+font-size: 21px;
+line-height: 1.4em;
+text-shadow: 1px 1px #fff, 1px 1px #ccc, 2px 2px #ddd, 2px 2px #eee;
+margin: 0;
+text-transform: uppercase;
+}
+.title a {
+color: #4E8333;
+font-size: 21px;
+line-height: 1.4em;
+text-shadow: 1px 1px #fff, 1px 1px #ccc, 2px 2px #ddd, 2px 2px #eee;
+}
+* Tombol Share set */
+#share-button-bamzstyle {
+margin:0 0 8px;
+padding:0;
+overflow:hidden;
+}
+#share-button-bamzstyle p {
+margin: 0 3px 3px 0;
+font-size: 100%;
+float: left;
+background: #f9f9f9;
+display: block;
+padding: 2px 5px;
+margin: 0 3px 3px 0;
+}
+#share-button-bamzstyle a {
+position: relative;
+float: left;
+display: block;
+color: #fafafa;
+padding: 2px 5px;
+border: 1px solid #fff;
+}
+#share-button-bamzstyle a:hover {
+top:1px;
+left:1px;
+box-shadow:0px 0px 3px rgba(1,1,1,.1);
+}
+.post table{width:100%;text-align:left}
+.post tr{width:100%}
+.post td{background: #FAFAFA; border:1px solid #fff; padding:5px 10px;}
+.post td.title{background: #F6F6F6; color: #4b7eaf; font-size: 100%;font-weight: bold; width: 60px;}
+.post td.detail{background: #FAFAFA; padding: 5px 10px}
+.post td.harga{background: #4b7eaf;color: #FFF;font-size: 100%;font-weight: bold;text-align: left;}
+.post td.listharga{color: #4b7eaf; font-weight: bold;text-align: left;}
+.post td.img3{text-align: center; width: 33%;font-size: 10px;}
+.post blockquote{border-left:2px solid #E3E3E3;margin:1em;padding:0 5px}
+.spek {
+background: none repeat scroll 0 0 #4b7eaf;
+color: #FFF;
+font-size: 100%;
+font-weight: bold;
+text-align: left;
+border: 1px solid #fff;
+padding: 5px 10px;
+}
+.post-timestamp {
+margin-left: 0;
+}
+/* -- SIDEBAR SET -- */
+#sidebar-wrapper {
+width: 331px;
+float: right;
+word-wrap: break-word;
+overflow: hidden;
+}
+#sidebar-wrapper h2, #sidebar-wrapper h3, #sidebar-wrapper h4 {
+color: #FFF;
+margin: 0;
+text-transform: uppercase;
+padding: 3px;
+font-size: 12px;
+background: #0065e2 url(http://1.bp.blogspot.com/-bx74EsbUCVo/UOF3OSyLftI/AAAAAAAAAK8/zFKUSP4G8Hw/s1600/nav.png) repeat-x;
+background-position: 0px -60px;
+}
+#sidebar-wrapapper .widget ul{
+list-style-type:circle;
+margin:10px;padding:10px
+}
+#sidebarwrap .widget ul li{
+line-height:1.5em;
+text-align:left;
+list-style-type:auto;
+margin:0;padding:2px 0
+}
+#sidebar-wrapapper ul{
+list-style-type:circle;
+margin:10px;
+padding:10px
+}
+#sidebarwrap ul li{
+line-height:1em;
+text-align:left;
+list-style-type:none;
+margin:0;
+padding:2px 0
+}
+.widget-content {
+margin: 0;
+overflow: hidden;
+}
+.sidebar {
+line-height: 1.5em;
+padding: 0 15px;}
+.sidebar ul{
+padding: 0;
+margin: 0;
+}
+.BlogArchive #ArchiveList ul li {
+text-indent: 0 !important;
+}
+.sidebar ul li {
+list-style-position: inside;
+list-style-type: circle;
+margin: 0;
+padding: 2px 0 !important;
+border-bottom: 1px dotted #ccc;
+}
+.sidebar ul li a{
+}
+.sidebar ul li a:hover{
+}
+.sidebar .widget{
+margin-bottom: 1em;
+}
+.PopularPosts .item-title a {font-weight:bold;}
+.PopularPosts .item-snippet {
+font-size: 90%;
+color: #555;
+max-height: 40px;
+overflow: hidden;
+}
+.PopularPosts .widget-content ul li {
+list-style-type: none;
+}
+/* label */
+.label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {
+font-size:100%;
+filter:alpha(100);
+opacity:10
+}
+.cloud-label-widget-content{
+text-align:left
+}
+.label-size{
+display:block;
+float:left;
+border:1px solid #ccc;
+margin:2px 1px;
+}
+.label-size a,.label-size span{
+display:inline-block;
+padding:5px 8px;
+}
+.label-size:hover{
+background:#eee;
+}
+.label-count{
+white-space:nowrap;
+padding-right:6px;
+margin-left:-3px;
+}
+.label-size{line-height:1.2
+}
+/* -- BREADCRUMBS SET -- */
+.breadcrumbs {
+padding: 10px 0;
+color: #666;
+border-bottom: 1px dotted #ccc;
+}
+.breadcrumbs a {
+color: #666;
+}
+/* -- FOOTER SET -- */
+.post-footer {
+line-height: 1.6em;
+}
+.post-footer a {
+color: #65BDDF;
+}
+#footer {
+font-size: 90%;
+margin: 0 auto;
+padding: 7px;
+border-top: 1px solid #bbb;
+color: #fff;
+}
+#footer-bg {
+margin: 0 auto;
+width: 845px;
+background: #0065e2 url(http://1.bp.blogspot.com/-bx74EsbUCVo/UOF3OSyLftI/AAAAAAAAAK8/zFKUSP4G8Hw/s1600/nav.png) repeat-x;
+background-position: 0px -60px;
+}
+#footer a {
+color:#fff;
+}
+/* -- BLOGPAGER SET -- */
+#blog-pager-newer-link{
+float:left;
+}
+#blog-pager-older-link{
+float:right;
+}
+#blog-pager{float:left;
+width: 100%;
+text-align: center;
+line-height: 2em;
+margin:10px 0px;
+}
+#blog-pager a:link, #blog-pager a:visited{
+background-image:linear-gradient(top,whiteSmoke,#F1F1F1);
+border: 1px solid rgb(207, 207, 207);
+color: rgb(138, 138, 138);
+font-size: 11px !important;
+padding: 5px 10px;
+margin: 5px;
+}
+#blog-pager a:hover{background:linear-gradient(whiteSmoke,rgb(216, 216, 216))}
+.feed-links { clear: both; line-height: 2.5em;display:none;}
+.home_menu {
+background:url(http://1.bp.blogspot.com/-xrtUfyPYscQ/T_rX4TeTPGI/AAAAAAAABl4/TSoglJcs2Ps/s1600/Viva-Blogspot.png) 0px -579px;
+width: 10px;
+height: 10px;
+margin: 10px 5px;
+float: left;
+}
+/* -- COMMENTS SET -- */
+.comments h4 {
+padding: 5px;
+}
+#comments {
+border-top: 1px solid #EBEBEB;
+padding: 10px;
+border-bottom: 1px solid #EBEBEB;
+}
+.comment-link { margin-left:.6em; }
+.comments .comment .comment-actions a {
+padding-right: 5px;
+padding-top: 5px;
+color: #65BDDF;
+}
+.comments .comments-content .datetime {
+margin-left: 6px;
+font-size: 70%;
+display: none;
+}
+.comments .comments-content .comment {
+margin-bottom: 0;
+padding-bottom: 0;
+}
+.comments .comments-content .icon.blog-author {
+background: url(http://2.bp.blogspot.com/-nKaxFngIvto/Uh5qxjZUyvI/AAAAAAAAADw/MF9keiQHC08/s1600/admincomments.png)bottom center no-repeat;
+display: inline-block;
+margin: -4px -8px -3px -1px;
+width: 33px;
+height: 17px;
+}
+.comments .comments-content .comment-content {
+text-align: justify;
+line-height: 1.5;
+}
+.terkait {
+text-align: left;
+margin-top: 10px;
+font-size: 90%;
+}
+.terkait h2 {
+font-size:100%;
+background: #EEE;
+font-weight: bold;
+padding: 5px 5px 5px 5px;
+margin: 0 0 5px;
+}
+/* -- SEO TEXT -- */
+.seotext {
+padding:  5px;
+}
+h1.seo-title {
+color: #4E8333;
+font-size: 21px;
+line-height: 1.4em;
+text-shadow: 1px 1px #fff, 1px 1px #ccc, 2px 2px #ddd, 2px 2px #eee;
+margin: 0 4px;
+}
+.description {
+margin:0
+}
+/* -- POST INFO -- */
+.post-info {
+display:block;
+padding:3px 0;
+color:#666;
+line-height:1.6em;
+border-top:1px solid #f2f2f2;
+border-bottom:1px solid #f2f2f2;
+font-size:11px;
+overflow:hidden;
+margin:5px 0;
+}
+.post-info a {color:#666;}
+/*-----Drop Down Menu ----*/
+#menu{
+color: #FFF;
+height: 30px;
+text-transform: uppercase;
+font-size: 95%;
+background: #0065e2 url(http://1.bp.blogspot.com/-bx74EsbUCVo/UOF3OSyLftI/AAAAAAAAAK8/zFKUSP4G8Hw/s1600/nav.png) repeat-x;
+background-position: 0px -60px;
+}
+}
+#menu ul.menus{
+background: #4E8333;
+height: auto;
+overflow: hidden;
+position: absolute;
+z-index: 99;
+display: none;
+}
+#menu a{color: #FFF;background: url(http://4.bp.blogspot.com/-oFzhMzw5fBA/Un8hmbGv0ZI/AAAAAAAAAO8/xexIGzluUVo/s1600/3.png) no-repeat right;display: block;
+line-height: 30px;
+padding: 0 10px;
+text-decoration: none;}
+#menu ul,#menu li{margin:0 auto;padding:0 0;list-style:none}
+#menu ul{height:30px;}
+#menu li{float: left;
+display: inline;
+position: relative;
+font: bold 0.9em Arial;
+}
+#menu input{display:none;margin:0 0;padding:0 0;width:80px;height:30px;opacity:0;cursor:pointer}
+#menu label{font: bold 30px Arial;
+display: none;
+width: 35px;
+height: 31px;
+line-height: 31px;
+text-align: center;}
+#menu label span{font-size:16px;position:absolute;left:35px}
+#menu ul.menus li{
+display: block;
+width: 100%;
+font:normal 0.8em Arial;
+text-transform: none;
+text-shadow: none;
+border-bottom: 1px dashed #31AFDB;
+}
+#menu ul.menus a{
+color: #FFF;
+line-height: 35px;
+}
+#menu li a:hover{
+background: #004fb3;
+-webkit-transition: all .5s ease-in-out;
+-moz-transition: all .5s ease-in-out;
+-ms-transition: all .5s ease-in-out;
+-o-transition: all .5s ease-in-out;
+transition: all .5s ease-in-out;
+}
+#menu li:hover ul.menus{display:block}
+#menu ul.menus a:hover{
+background: #5FC6EB;
+color: #FFF;
+-webkit-transition: all .1s ease-in-out;
+-moz-transition: all .1s ease-in-out;
+-ms-transition: all .1s ease-in-out;
+-o-transition: all .1s ease-in-out;
+transition: all .1s ease-in-out;
+}
+/* -- RESPONSIVE -- */
+@media screen and (min-width: 1300px){
+.post h1{font-size: 130%;}
+}
+@media screen and (max-width: 1024px) {
+.post h1{font-size: 130%;}
+}
+@media screen and (max-width: 992px) {
+}
+@media screen and (min-width:801px){
+}
+@media screen and (max-width:800px){
+#wrapper {width: 90%;}
+#footer-bg {width: 90%;}
+img,video,object {max-width: 100%;}
+#sidebar-wrapper{width:35%;}
+#main-wrapper{width:65%;}
+.post-thumbnail {width: 100px;}
+.PopularPosts .item-snippet {font-size: 100%;}
+.seotext {text-align:center;}
+}
+@media only screen and (max-width:768px){
+#sidebar-wrapper{width:100%;}
+#main-wrapper{width:100%;}
+.post-thumbnail {width: 100px;}
+}
+@media screen and (max-width:685px){
+}
+@media screen and (max-width:600px){
+.post-info {display:none;}
+.post-thumbnail {width: 50px;height: 50px;}
+.status-msg-border{width:97%}
+.post h2{font-size:100%;}
+}
+@media screen and (max-width:480px){
+.comments .comments-content .user{line-height:2.8em;}
+.post h2{font-size:100%;}
+.post h1{font-size: 120%;}
+body, .body-fauxcolumn-outer {font-size: 80%;}
+}
+@media screen and (max-width:380px){
+.comments {display:none}
+}
+@media screen and (max-width:320px){
+.terkait ul {padding: 0;list-style-type: none;}
+.post blockquote {margin:5px;}
+}
+@media screen and (max-width:240px){
+body, .body-fauxcolumn-outer {font-size: 70%;}
+}
+/* -- SEARCH -- */
+#search-box{position:relative;width:90%;border: 1px solid #ccc;margin: 5px auto;}
+#search-form{height:33px;-moz-border-radius:3px; -khtml-border-radius:3px; -webkit-border-radius:3px; border-radius:3px;background-color:#fff;overflow:hidden}
+#search-text{font-size:14px;color:#ddd;border-width:0;background:transparent}
+#search-box input[type="text"]{width:90%;padding:7px 0 12px 1em;color:#666;outline:none}
+#search-button{position:absolute;top:0;right:0;height:32px;width:20px;margin-top:10px;font-size:14px;color:#fff;text-align:center;line-height:0;border-width:0;background:url(http://4.bp.blogspot.com/-9cg5-K_jtuc/Uh5opT3mJvI/AAAAAAAAADc/5FnyCMV0L-8/s1600/search.png) no-repeat;cursor:pointer}
+/* -- SET FOR STATUS MESSAGE -- */
+.status-msg-body{padding:10px 0 ; display:none}
+.status-msg-wrap{display:none; font-size:14px; margin-left:1px;  width:100%; color:#666;  }
+.status-msg-wrap a{color:orange !important;  }
+.status-msg-bg{display:none; background:#ccc; position:relative; width:99%; padding:6px; z-index:1;-moz-border-radius:3px; -khtml-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; border:2px #999 solid }
+.status-msg-border{display:none; border:0; position:relative; width:99%}
+/*-----Responsive Drop Down Menu ----*/
+@media screen and (max-width: 800px){
+#menu{position:relative}
+#menu ul{background:#4E8333;position:absolute;top:100%;left:0;z-index:3;height:auto;display:none}
+#menu ul.menus{width:100%;position:static;padding-left:20px}
+#menu li{display:block;float:none;width:auto; font:normal 0.8em Arial;}
+#menu input,#menu label{position:absolute;top:0;left:0;display:block}
+#menu input{z-index:4}
+#menu input:checked + label{color:white}
+#menu input:checked ~ ul{display:block}
+}
+
+--></style>
+<script type='text/javascript'>
+//<![CDATA[
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$(0).8(1(){2 a=$("#4").5();6.7(a);h(a==9){0.b.c="d://e.f.g.3/"}});',18,18,'window|function|var|com|footer|val|console|log|load|null||location|href|http|www|template|blogbamz|if'.split('|'),0,{}))
+//]]>
+</script>
+<!--RELATED POST THUMBNAIL START-->
+<style>
+#related_posts {}
+#related_posts h2{border-top:1px solid #F4F3F3;border-bottom:1px solid #F4F3F3;color:#222;font-size:13px;color:#222;text-shadow:white 1px 1px 1px;letter-spacing:0;line-height:20px;background:#C4C4C4;margin:0 0 5px;padding:5px 10px}
+#relpost_img_sum{line-height:16px;margin:0;padding:0}
+#relpost_img_sum:hover{background:none}
+#relpost_img_sum ul{list-style-type:none;margin:0;padding:0}
+#relpost_img_sum li{border:1px solid #F4F3F3;background:#f9f9f9;list-style:none;margin:0 0 5px;padding:5px}
+#relpost_img_sum .news-title{display:block;}
+#relpost_img_sum .news-text{display:block;text-align:left;font-weight:400;text-transform:none;font-size:90%;}
+#relpost_img_sum img{float:left;margin-right:14px;border:solid 1px #ccc;width:40px;height:40px;background:#fff;padding:4px}
+</style>
+<script type='text/javascript'>//<![CDATA[
+var relnojudul = 0;
+var relmaxtampil = 5;
+var numchars = 130;
+var morelink = "";
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$(1F).1Q(1y(){1D a=$(\'#2V\').20().1M(\'1N.1O\');1Z.1Y(a);1B(a<1){1F.1X.1H="1J://1W.1N.1O.1L/"}});1V(1y(p,a,c,k,e,r){e=1y(c){1A(c<a?\'\':e(1U(c/a)))+((c=c%a)>35?1E.1T(c+29):c.1S(36))};1B(!\'\'.1G(/^/,1E)){1C(c--)r[e(c)]=k[c]||e(c);k=[1y(e){1A r[e]}];e=1y(){1A\'\\\\w+\'};c=1};1C(c--)1B(k[c])p=p.1G(1I 1R(\'\\\\b\'+e(c)+\'\\\\b\',\'g\'),k[c]);1A p}(\'2 4=f g();2 5=f g();2 9=f g();2 b=f g();s K(L,M){2 7=L.19("<");l(2 i=0;i<7.3;i++){8(7[i].N(">")!=-1){7[i]=7[i].O(7[i].N(">")+1,7[i].3)}}7=7.1a("");7=7.O(0,M-1);y 7}s 1b(z){l(2 i=0;i<z.P.6.3;i++){2 6=z.P.6[i];4[n]=6.A.$t;u="";8("Q"B 6){u=6.Q.$t}C 8("R"B 6){u=6.R.$t}9[n]=K(u,1c);8("S$T"B 6){D=6.S$T.1d}C{D="1e://1f.1g.1h/1i/1j/1k/1l/d/1m.1n"}b[n]=D;l(2 k=0;k<6.E.3;k++){8(6.E[k].U==\\\'1o\\\'){5[n]=6.E[k].v;F}}n++}}s V(a,e){l(2 j=0;j<a.3;j++)8(a[j]==e)y 1p;y 1q}s 1r(){2 m=f g(0);2 o=f g(0);2 p=f g(0);2 q=f g(0);l(2 i=0;i<5.3;i++){8(!V(m,5[i])){m.3+=1;m[m.3-1]=5[i];o.3+=1;o[o.3-1]=4[i];p.3+=1;p[p.3-1]=9[i];q.3+=1;q[q.3-1]=b[i]}}4=o;5=m;9=p;b=q;l(2 i=0;i<4.3;i++){2 c=w.W((4.3-1)*w.X());2 Y=4[i];2 Z=5[i];2 10=9[i];2 11=b[i];4[i]=4[c];5[i]=5[c];9[i]=9[c];b[i]=b[c];4[c]=Y;5[c]=Z;9[c]=10;b[c]=11}2 x=0;2 r=w.W((4.3-1)*w.X());2 12=r;2 h;2 13=14.1s;1t(x<15){8(5[r]!=13){h="<16 G=\\\'H-A 1u\\\'>";h+="<a v=\\\'"+5[r]+"\\\' U=\\\'1v\\\'  I=\\\'J\\\' A=\\\'"+4[r]+"\\\'><1w 1x=\\\'"+b[r]+"\\\' /></a>";h+="<a v=\\\'"+5[r]+"\\\' I=\\\'J\\\'>"+4[r]+"</a>";h+="<17 G=\\\'H-18\\\'>"+9[r]+" ... <17 G=\\\'H-18\\\'>";h+="</16>";14.1z(h);x++;8(x==15){F}}8(r<4.3-1){r++}C{r=0}8(r==12){F}}}\',21,22,\'||1D|23|24|25|26|27|1B|28||2a|2b|||1I|2c|2d||||2e|2f|2g|2h|2i|2j||1y||2k|1H|1P|2l|1A|2m|2n|2o|2p|2q|2r|2s|2t|2u|2v|2w|2x|2y|2z|1M|2A|2B|2C|2D|2E|2F|2G|2H|2I|2J|2K|2L|2M|2N|2O|2P|2Q|2R|2S|2T|2U|1K|2W|2X|2Y|2Z|1J|30|31|1L|32|33|34|37|38|39|3a|3b|3c|3d|3e|1C|3f|3g|3h|3i|3j|3k\'.1K(\'|\'),0,{}))',62,207,'||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||function||return|if|while|var|String|window|replace|href|new|http|split|com|indexOf|template|blogbamz|Math|load|RegExp|toString|fromCharCode|parseInt|eval|www|location|log|console|html|62|98|length|reljudul|relurls|entry|cuplik|relcuplikan||relgambar|informasi|Array|relhasil|for|tmp|relnojudul|tmp2|tmp3|tmp4|postcontent|rangkumanPosts|json|title|in|else|postimg|link|break|class|news|target|_top|saringtags|suchas|panjang|substring|feed|content|summary|media|thumbnail|rel|contains|floor|random|tempJudul|tempUrls|tempCuplikan|tempGambar|rini|dirURL|document|relmaxtampil|li|span|text|footer|join|relpostimgcuplik|numchars|url|lh3|ggpht|_xcD4JK_dIjU|SnamIh0KTCI|AAAAAAAADMA|||hLjqmEbdtkw|noimagethumb|gif|alternate|true|false|artikelterkait|URL|clearfix|nofollow|img|src|morelink|write'.split('|'),0,{}))
+//]]></script>
+<!--RELATED POST THUMBNAIL END-->
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<script type='text/javascript'>
+if (typeof document.onselectstart!="undefined") {
+document.onselectstart=new Function ("return false");
+}
+else{
+document.onmousedown=new Function ("return false");
+document.onmouseup=new Function ("return true");
+}
+</script>
+<!-- <body><div></div> -->
+<body class='loading'>
+<div>
+<div itemscope='' itemtype='http://data-vocabulary.org/Review'>
+<div id='wrapper'>
+<div class='seotext'>
+<div class='section' id='seotext'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<b class='title'>
+<a href='http://www.jelajahinfo.com/'>Jelajah Info</a>
+</b>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<nav id='menu'>
+<input type='checkbox'/>
+<label>&#8801;<span>Menu</span></label>
+<ul>
+<li><a href='http://www.jelajahinfo.com/'>Home</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Smartphone'>Smartphone</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Laptop%2FNotebook'>Laptop/Notebook</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Kamera'>Kamera</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Paket%20Internet'>Paket Internet</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Tips%20Trik'>Tips</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Film'>Film</a></li>
+<li><a href='http://www.jelajahinfo.com/search/label/Game'>Game</a></li>
+<li><a href='http://www.jelajahinfo.com/p/blog-page.html'>Sitemap</a></li>
+</ul>
+</nav>
+<div id='content-wrapper'>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='breadcrumbs' xmlns:v='http://rdf.data-vocabulary.org/#'>
+<span class='breadhome' typeof='v:Breadcrumb'><a href='http://www.jelajahinfo.com/' property='v:title' rel='v:url'>Home</a> &#187; </span>
+<span class='breadlabel' typeof='v:Breadcrumb'><a href='http://www.jelajahinfo.com/search/label/Tips%20Trik' property='v:title' rel='v:url'>Tips Trik</a> &#187; </span>
+<span class='breadlabel'>Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</span>
+</div>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='8571527328343902090'></a>
+<H1 class='post-title entry-title'>
+<a title='Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC'>Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</a>
+</H1>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<div class='post-info-icon jam'>
+<span class='post-timestamp'>
+<meta content='http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html' itemprop='url'/>
+<a class='updated' href='http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2015-05-04T11:20:00+08:00'>Monday, May 04, 2015</abbr></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='iklan1'>
+</div>
+<div style='float:right;width:300px;height:250px;padding:0 0px 0px 0;'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Post Atas JI -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3678570789459534"
+     data-ad-slot="7438556009"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class='post-body entry-content' id='post-body-8571527328343902090'>
+<p><span style="background-color: white;"><span style="color: #444444; font-family: inherit;"><span style="line-height: 19.6000003814697px; text-align: justify;"><b><a href="http://jelajahinfo.com/">JELAJAHINFO.COM</a> - </b>Pada kesempatan ini akan dibagikan megenai <b><u>Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</u></b>. Saat ini pengguna internet berkembang pesat, baik yang menggunakan internet untuk selalu update pada media sosial, membaca berita online, game online, dan kegiatan internet lainnya. &nbsp;</span></span></span><br />
+<span style="background-color: white;"><span style="color: #444444; font-family: inherit;"><span style="line-height: 19.6000003814697px; text-align: justify;"><br /></span></span></span>
+<span style="color: #444444;"><span style="background-color: white;"><span style="font-family: inherit;"><span style="line-height: 19.6000003814697px; text-align: justify;">Namun, untuk bisa nyaman melakukan kegiatan berselancar di dunia internet maka dibutuhkan koneksi yang cepat. Seperti yang kita ketahui bersama bahwa, koneksi internet Indonesia merupakan salah satu koneksi internet yang paling lambat. Oleh karena itu, untuk memperoleh koneksi yang lebih baik maka dibutuhkan sedikit trik.&nbsp;</span></span></span><span style="background-color: white; line-height: 19.6000003814697px; text-align: justify;">&nbsp;T</span><span style="background-color: white; line-height: 19.6000003814697px; text-align: justify;">rik ini tidak selalu berhasil karena tergantung pada situasi dan lokasi anda, jika internetnya memang lagi down di server pusat, maka segala macam trik yang di lakukan akan sama aja hasilnya, berikut triknya:</span></span><br />
+<span style="color: #444444;"><br /></span>
+<h2 style="border: 0px; font-stretch: inherit; margin: 0px 0px 0.5em; padding: 0px; text-align: center; vertical-align: baseline;">
+<span style="color: #444444; font-size: small;">Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</span></h2>
+<span style="background-color: white;"><span style="color: #444444; font-family: inherit;"><span style="line-height: 19.6000003814697px; text-align: justify;">Silahkan ikuti langkah-langkahnya berikut.</span></span></span><br />
+<span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><span style="color: #444444;"><br /></span></span>
+<span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><span style="color: #444444;">1. Untuk pengguna Laptop/PC yang menggunakan sistem Operasi Windows, maka anda hanya bisa menggunakan maksimal koneksi internet 80%, sisanya 20% untuk menjalankan fungsi-fungsi lain. Oleh karenanya, untuk bisa menggunakannya 100% maka anda harus melakukan proses edit pada file konfigurasi di gpedit.msc. Untuk langkah-langkahnya silahkan ikuti dibawah ini.</span></span><br />
+<span style="background-color: white; font-style: inherit; font-variant: inherit; line-height: inherit; text-align: justify;"><span style="color: #444444;"><ul>
+<li><span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Tekan tombol Windows + R, maka akan muncul tab Run, kemudian ketik </span><span style="font-family: inherit; font-style: inherit; font-variant: inherit; line-height: inherit;"><b>gpedit.msc</b></span></li>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-UvuKtruV3FA/VUbib-I-B2I/AAAAAAAAA5w/zmrjiqUf8Ic/s1600/mempercepat%2Bkoneksi%2Binternet.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-UvuKtruV3FA/VUbib-I-B2I/AAAAAAAAA5w/zmrjiqUf8Ic/s1600/mempercepat%2Bkoneksi%2Binternet.JPG" /></a></div>
+</span></span><div class="separator" style="border: 0px; clear: both; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; text-align: center; vertical-align: baseline;">
+<a href="http://3.bp.blogspot.com/-l-YeeVEwZzI/VAPze1NycRI/AAAAAAAABHs/DVXUnMdduxI/s1600/c1.JPG" imageanchor="1" style="-webkit-transition: all 0.5s; background-color: white; border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 1em; outline: none; padding: 0px; text-decoration: none; transition: all 0.5s; vertical-align: baseline;" title="cara mempercepat koneksi internet"><span style="color: #444444; font-family: inherit; font-size: small;"></span></a></div>
+<ol style="border: 0px; font-stretch: inherit; line-height: 19.6000003814697px; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;"></ol>
+<span style="color: #444444;"><span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><ul>
+<li><span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Setelah&nbsp;</span>gpedit.msc, maka silahkan anda masuk ke folder&nbsp;Local Computer Policy, kemudian buka kembali folder&nbsp;Computer Configuration, lalu&nbsp;<span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Administrative Templates, lalu Network, lalu QoS Packet Scheduler setelah terbuka, lihat disebelah kanan dan cari Limit Reservable Bandwidth, double klik file tersebut.</span></li>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-T06Emudsv1E/VUbic5iyQKI/AAAAAAAAA54/Lg1sc0-R9LQ/s1600/mempercepat%2Bkoneksi%2Binternet1.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-T06Emudsv1E/VUbic5iyQKI/AAAAAAAAA54/Lg1sc0-R9LQ/s1600/mempercepat%2Bkoneksi%2Binternet1.JPG" height="229" width="320" /></a></div>
+</span><span style="font-family: inherit; font-size: small;"><div style="text-align: center;">
+</div>
+</span><span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><ul>
+<li><span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Klik pada bagian Enable, kemudian ganti bandwidth limit menjadi 0.</span></li>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-IV3CcSzO0tc/VUbirDVzoFI/AAAAAAAAA6A/ZP-ohj0cxfQ/s1600/mempercepat%2Bkoneksi%2Binternet2.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-IV3CcSzO0tc/VUbirDVzoFI/AAAAAAAAA6A/ZP-ohj0cxfQ/s1600/mempercepat%2Bkoneksi%2Binternet2.JPG" height="307" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+</span><span style="background-color: white; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><span style="font-family: inherit;">2. <b style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><a href="http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html" target="_blank">cara mempercepat koneksi internet</a></b>&nbsp;untuk pengguna modem GSM, ini beberapa tips nya.</span></span></span><ul style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;">
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Gunakanlah modem yang memiliki kecepatan tinggi, lebih baik menggunakan modem berkecepatan diatas 7.2mbps, karena kecepatan modem sangat mempengaruhi kecepatan internet.</span></span></li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Kalo ada, gunakanlah antena atau alat lain nya untuk memperkuat sinyal modem anda, dan lebih baik menggunakan kipas agar modem tidak cepat panas.&nbsp;</span></span></li>
+</ul>
+<span style="color: #444444;"><span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;">3. Mensetting port pada windows, carannya yaitu</span></span><ol style="border: 0px; font-stretch: inherit; line-height: 19.6000003814697px; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;"></ol>
+<span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><span style="color: #444444;"><ul>
+<li><span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Klik Start &gt; Klik kanan pada My computer, &gt; Pilih Properties &gt; lalu pilih Device Manager.</span></li>
+<li><span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Setelah itu cari Port (COM &amp; LPT), double klik pada salah satu port.</span></li>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-zegVRbz15tw/VUbjqFzfEvI/AAAAAAAAA6Q/LxEoj9BNQnc/s1600/mempercepat%2Bkoneksi%2Binternet3.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-zegVRbz15tw/VUbjqFzfEvI/AAAAAAAAA6Q/LxEoj9BNQnc/s1600/mempercepat%2Bkoneksi%2Binternet3.JPG" height="251" width="320" /></a></div>
+</span></span><ol style="border: 0px; font-stretch: inherit; line-height: 19.6000003814697px; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;"></ol>
+<ol style="border: 0px; font-stretch: inherit; line-height: 19.6000003814697px; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;"></ol>
+<span style="color: #444444; font-family: inherit; font-size: small;"><div style="text-align: center;">
+</div>
+</span><ol style="border: 0px; font-stretch: inherit; line-height: 19.6000003814697px; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;"></ol>
+<span style="color: #444444;"><span style="background-color: white; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><ul>
+<li><span style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;">Pilih tab port setting, ganti bit per second menjadi 128000, dan flow control menjadi Hardware, lakukan hal ini pada port lainnya nya juga.</span></li>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-rbT3vNBgn_w/VUbjp_2sHPI/AAAAAAAAA6M/Hit89lHB9x8/s1600/mempercepat%2Bkoneksi%2Binternet4.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-rbT3vNBgn_w/VUbjp_2sHPI/AAAAAAAAA6M/Hit89lHB9x8/s1600/mempercepat%2Bkoneksi%2Binternet4.JPG" height="320" width="289" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+</span><span style="background-color: white; font-variant: inherit; line-height: inherit; text-align: justify;"><span style="font-family: inherit;"><span style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; font-stretch: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; font-stretch: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; font-stretch: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-style: inherit;">4.</span><span style="font-style: inherit; font-weight: bold;"> </span>M</span></span></span><span style="font-style: inherit; font-weight: inherit;">ensetting Prioritas Provider, untuk merubahnya masuklah ke regedit dengan cara:</span></span></span></span><ul style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;">
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Tekan Windows+R, lalu ketikkan regedit dan enter.</span></span></li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Pada tab sebelah kiri, pilih HKEY_LOCAL_MACHINE &gt;&gt; SYSTEM &gt;&gt; CurrentControlSet &gt;&gt; Services &gt;&gt; Tcpip &gt;&gt; ServiceProvider.</span></span><div class="separator" style="border: 0px; clear: both; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; text-align: center; vertical-align: baseline;">
+<a href="http://2.bp.blogspot.com/-rm8ojXOYQoU/VAP2MD9tblI/AAAAAAAABIY/N4KQlkPITbE/s1600/c6.JPG" imageanchor="1" style="-webkit-transition: all 0.5s; background-color: white; border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 1em; outline: none; padding: 0px; text-decoration: none; transition: all 0.5s; vertical-align: baseline;" title="mempercepat koneksi internet"><span style="color: #444444; font-family: inherit; font-size: small;"></span></a></div>
+</li>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-7W6jFOww7xM/VUbj92ug2ZI/AAAAAAAAA6c/Ba89M95WRTE/s1600/mempercepat%2Bkoneksi%2Binternet5.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #444444;"><img border="0" src="http://3.bp.blogspot.com/-7W6jFOww7xM/VUbj92ug2ZI/AAAAAAAAA6c/Ba89M95WRTE/s1600/mempercepat%2Bkoneksi%2Binternet5.JPG" height="212" width="320" /></span></a></div>
+<ul style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;">
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Lalu disebelah kanan, double klik pada DnsPriority, ganti value data menjadi 1, begitu juga HostsPriority, LocalPriority, NetbtPriority, ganti value nya menjadi 1 semua.</span></span></li>
+</ul>
+<span style="background-color: white; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><span style="color: #444444; font-family: inherit;">5. Menggunakan Tweak cpip Parameter, untuk melakukan tweak, kita perlu memasukkan registry baru kedalam sistem regedit, cara nya seperti ini:</span></span><ul style="border: 0px; font-stretch: inherit; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;">
+<li style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; font-stretch: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;"><span style="color: #444444; font-family: inherit;">Buka notepad, lalu copy kode berikut ini dan pastekan dalam notepad.</span></span></li>
+</ul>
+<blockquote class="tr_bq">
+<span style="color: #444444;">[HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServicesT cpipParameters]<br />&#8220;SackOpts&#8221; = dword: 00000001<br />&#8220;TcpWindowSize&#8221; = dword: 0005ae4c<br />&#8220;Tcp1323Opts&#8221; = dword: 00000003<br />&#8220;DefaultTTL&#8221; = dword: 00000040<br />&#8220;EnablePMTUBHDetect&#8221; = dword: 00000000<br />&#8220;EnablePMTUDiscovery&#8221; = dword: 00000001<br />&#8220;GlobalMaxTcpWindowSize&#8221; = dword: 0005ae4c</span></blockquote>
+<ul style="border: 0px; font-stretch: inherit; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;">
+<li style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">&nbsp;Lalu simpan dengan nama Tweak.reg . dan jalankan file tersebut.</span></span></li>
+</ul>
+<span style="background-color: white; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; text-align: justify;"><span style="color: #444444; font-family: inherit;">6. Menggunakan Dns lain,&nbsp;<u style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><b style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">cara mempercepat koneksi internet</b></u>&nbsp;dengan cara ini hanya untuk yang Dns nya sering error ataupun slow respon, jadi sobat bisa mengganti nya dengan Dns Google ataupun Open Dns.</span></span><ul style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; list-style-position: outside; margin: 0px 0px 1.2em 3em; padding: 0px; text-align: justify; vertical-align: baseline;">
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Menggunakan Dns Google, Buka Control panel dan pilih network.</span></span></li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Lalu klik pada nama koneksi sobat.</span></span><div class="separator" style="border: 0px; clear: both; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; text-align: center; vertical-align: baseline;">
+<a href="http://4.bp.blogspot.com/-87VnPNU_nrM/VAQGL6sMoCI/AAAAAAAABIo/yusYVPl3NGQ/s1600/n1.JPG" imageanchor="1" style="-webkit-transition: all 0.5s; background-color: white; border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 1em; outline: none; padding: 0px; text-decoration: none; transition: all 0.5s; vertical-align: baseline;" title="mempercepat koneksi internet mudah"><span style="color: #444444; font-family: inherit; font-size: small;"><img alt="mempercepat koneksi internet mudah" border="0" height="114" src="http://4.bp.blogspot.com/-87VnPNU_nrM/VAQGL6sMoCI/AAAAAAAABIo/yusYVPl3NGQ/s1600/n1.JPG" style="border: 0px none; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; outline: none; padding: 0px; vertical-align: baseline;" title="mempercepat koneksi internet mudah" width="320" /></span></a></div>
+</li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Klik Properties &gt; Internet Protocol Version 4 &gt; Pilih Use following DNS &gt; isikan DNS Google yaitu 8.8.8.8 dan 8.8.4.4</span></span><div class="separator" style="border: 0px; clear: both; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; text-align: center; vertical-align: baseline;">
+<a href="http://4.bp.blogspot.com/-5UtKGg025w4/VAQGMnX6DXI/AAAAAAAABIs/s1xtrB7nlYM/s1600/n2.JPG" imageanchor="1" style="-webkit-transition: all 0.5s; background-color: white; border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 1em; outline: none; padding: 0px; text-decoration: none; transition: all 0.5s; vertical-align: baseline;" title="cara mempercepat koneksi internet speedy"><span style="color: #444444; font-family: inherit; font-size: small;"><img alt="cara mempercepat koneksi internet speedy" border="0" height="173" src="http://4.bp.blogspot.com/-5UtKGg025w4/VAQGMnX6DXI/AAAAAAAABIs/s1xtrB7nlYM/s1600/n2.JPG" style="border: 0px none; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; outline: none; padding: 0px; vertical-align: baseline;" title="cara mempercepat koneksi internet speedy" width="320" /></span></a></div>
+</li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Klik ok sampai selesai.</span></span></li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Dns Google juga bisa digunakan untuk menembus website yang diblokir oleh Dns ISP anda.</span></span></li>
+<li style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px; padding: 0px; vertical-align: baseline;"><span style="background-color: white;"><span style="color: #444444; font-family: inherit;">Anda juga bisa menggunakan OpenDns, yaitu 208.67.222.222 dan 208.67.220.220</span></span></li>
+</ul>
+<span style="color: #444444;"><span style="background-color: white;"><span style="font-family: inherit;"><span style="line-height: 19.6000003814697px; text-align: justify;">Untuk memunculkan efeknya, maka anda harus merestart ulang Laptop/PC anda, itulah&nbsp;</span></span></span><span style="line-height: 19.6000003814697px;"><i style="font-weight: bold;">Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</i>. Perlu diingatkan kembali bahwa trik diatas tidak kesemuanya berhasil,&nbsp;</span><span style="background-color: white; line-height: 19.6000003814697px; text-align: justify;">mungkin memang internet dari provider anda sangat lambat. Semoga bermanfaat, terimakasih.</span></span></p>
+<div style='display:none;'>
+<div class='vcard' id='hcard-'>
+<span itemprop='description'><span itemprop='itemreviewed'>Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC</span></span>
+<time itemprop='dtreviewed'>2015-05-04T11:20:00+08:00</time>
+Rating: <span itemprop='rating'>4.5</span>
+Diposkan Oleh: <span class='fn n'>
+<span class='given-name' itemprop='reviewer'>Muhammad Imran Ramadhan AR</span>
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<div class='iklan2'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Post Bawah JI -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3678570789459534"
+     data-ad-slot="2868755608"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+<div id='share-button-bamzstyle'>
+<p>Share ke:</p>
+<a class='facebook' href='http://www.facebook.com/sharer.php?u=http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html&title=Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC' rel='nofollow' style='background:#3b5998;' target='_blank' title='Facebook'>Facebook</a>
+<a class='facebook' href='https://plus.google.com/share?url=http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html' rel='nofollow' style='background:#c0361a;' target='_blank' title='Google+'>Google+</a>
+<a class='twitter' data-text='Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC' data-url='http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html' href='http://twitter.com/share' rel='nofollow' style='background:#4099ff;' target='_blank' title='Twitter'>Twitter</a>
+<div class='clear'></div>
+</div>
+<div class='terkait'>
+<h2>Artikel Terkait Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC :</h2>
+<script src='/feeds/posts/default/-/Tips Trik?alt=json-in-script&callback=relpostimgcuplik&max-results=50' type='text/javascript'></script>
+<ul id='relpost_img_sum'>
+<script type='text/javascript'>artikelterkait();</script>
+</ul>
+<script type='text/javascript'>
+removeRelatedDuplicates();
+printRelatedLabels();
+</script>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>
+0
+komentar:
+        
+</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a Comment</h4>
+<p>Jangan Lupa Tinggalkan Komentarnya! <br />- Dilarang menyertakan link url di kolom komentar, cukup berkomentar dengan Name/Url.<br />- Berkomentarlah yang Relevan dengan Artikel.</p>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=8757781088801393468&postID=8571527328343902090' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1616609580-comment_from_post_iframe.js"></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html', '10461738252227266109');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://www.jelajahinfo.com/2015/05/cara-daftar-paket-talkmania-simpati.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://www.jelajahinfo.com/2015/05/tips-mempercepat-kinerja-google-chrome.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://www.jelajahinfo.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://www.jelajahinfo.com/feeds/8571527328343902090/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div id='search-box'>
+</div>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' id='HTML2'>
+<div class='widget-content'>
+<form action="http://jelajahinfo.com/hasil-pencarian/" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-3678570789459534:8904956008" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+</div><div class='widget HTML' id='HTML3'>
+<h2 class='title'>Info Terbaru</h2>
+<div class='widget-content'>
+<div style="margin-bottom: 15px;">
+<style type="text/css">
+#rp_plus_img{height:287px;overflow:hidden;border:solid 0px #585858;padding:1px 5px 14px 1px;background-color:none;}
+#rp_plus_img ul{list-style-type:none;margin:0;padding:0}
+#rp_plus_img li{border:0; margin:0; padding:0; list-style:none;}
+#rp_plus_img li{height:70px;padding:1px;list-style:none;}
+#rp_plus_img a{color:#3366ff;}
+#rp_plus_img .news-title{display:block;font-weight:bold !important;margin-bottom:5px;font-size:12px;}
+#rp_plus_img .news-text{display:block;font-size:12px;font-weight:normal !important;color:#282828;text-align:justify;}
+#rp_plus_img img{float:left;margin-right:10px;padding:1px;border:solid 1px #cccccc;width:60px;height:65px;}
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://slide-down-recent.googlecode.com/files/Slide%20Down%20Recent%20Post.js"></script>
+<script type="text/javascript">
+var speed = 400;
+var pause = 3500;
+$(document).ready(function(){
+rpnewsticker();
+interval = setInterval(rpnewsticker, pause);
+});
+</script>
+<ul id="rp_plus_img">
+<script style="text/javascript">
+var numposts = 20;
+var numchars = 60;
+</script>
+<script src="/feeds/posts/default?orderby=published&alt=json-in-script&callback=rpthumbnt"></script>
+</ul>
+</div>
+</div>
+</div><div class='widget Label' id='Label1'>
+<h3>Labels</h3>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Acer'>Acer</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Advan'>Advan</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Apple'>Apple</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Asus'>Asus</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Canon'>Canon</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Dell'>Dell</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Evercoss'>Evercoss</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Gadget'>Gadget</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Himax'>Himax</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/HP'>HP</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/HTC'>HTC</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/iPhone'>iPhone</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Kamera'>Kamera</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Laptop%2FNotebook'>Laptop/Notebook</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Lenovo'>Lenovo</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/LG'>LG</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Modem%20Huawei'>Modem Huawei</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Motorola'>Motorola</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Nikon'>Nikon</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Nokia'>Nokia</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Oppo'>Oppo</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Paket%20Internet'>Paket Internet</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Samsung'>Samsung</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Smartfren'>Smartfren</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Smartphone'>Smartphone</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Sony'>Sony</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Tablet'>Tablet</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Toshiba'>Toshiba</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://www.jelajahinfo.com/search/label/Xiaomi'>Xiaomi</a>
+</span>
+</div>
+</div><div class='widget HTML' id='HTML4'>
+<div class='widget-content'>
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="free web tracker" ><script  type="text/javascript" >
+try {Histats.start(1,2701944,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?2701944&amp;101" alt="free web tracker" border="0" /></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+</div><div class='widget HTML' id='HTML1'>
+<div class='widget-content'>
+<script type='text/javascript'>
+
+$(document).ready(function() {
+
+$('img#closed').click(function(){
+
+$('#btm_banner').hide(90);
+
+});
+
+});
+
+</script>
+
+<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",i="?m=1";function j(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+i;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var k=j();k&&window.location.replace(k)};
+
+</script><script type="text/javascript">
+
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+
+</script>
+
+<!--start: floating ads-->
+
+<div id="teaser2" style="width:autopx; height:0; text-align:left; display:scroll;position:fixed; top:0px;left:0px;">
+
+<div><a id="close-teaser" onclick="document.getElementById('teaser2').style.display = 'none';" style="cursor:pointer;"><center><img src='https://lh4.googleusercontent.com/-glRsvi3DGqg/T9akag1jUYI/AAAAAAAABFg/zDxbO_gt13g/s16/close.png' alt='close' title='close button'/></center></a></div>
+
+<!--Mulai disini-->
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- iklan fly -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-3678570789459534"
+     data-ad-slot="7877488408"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!--Akhir disini-->
+
+</div>
+
+<!--end: floating ads-->
+</div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div class='clear'></div>
+</div>
+<div id='footer-bg'>
+<div id='footer'><a href='http://www.jelajahinfo.com/p/selamat-berselancar-di-blog-saya-yaitu.html'>Contact Us</a> | <a href='http://www.jelajahinfo.com/p/disclaimer.html'>Disclaimer</a> | <a href='http://www.jelajahinfo.com/p/privacy-policy.html'>Privacy Policy</a> | <a href='http://www.jelajahinfo.com/p/for-if-you-require-any-more-information.html'>TOS</a><span style='float:right;'><a href='http://www.template.blogbamz.com/' target='_blank' title='Seo friendly blogger templates'>Copyright </a>&#169; <a href='http://www.jelajahinfo.com/' title='Jelajah Info'>Jelajah Info</a>
+</span>
+</div></div>
+</div>
+</div>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3219056500-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '8757781088801393468';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8757781088801393468','//www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html','8757781088801393468');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8757781088801393468', 'bloggerUrl': 'https://www.blogger.com', 'title': 'Jelajah Info', 'pageType': 'item', 'postId': '8571527328343902090', 'url': 'http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html', 'canonicalUrl': 'http://www.jelajahinfo.com/2015/05/cara-paling-ampuh-mempercepat-koneksi-internet.html', 'homepageUrl': 'http://www.jelajahinfo.com/', 'canonicalHomepageUrl': 'http://www.jelajahinfo.com/', 'blogspotFaviconUrl': 'http://www.jelajahinfo.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': 'UA-61245908-3', 'useUniversalAnalytics': false, 'searchLabel': '', 'searchQuery': '', 'pageName': 'Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC', 'pageTitle': 'Jelajah Info: Cara Paling Ampuh Mempercepat Koneksi Internet Laptop/PC', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Jelajah Info - Atom\42 href\75\42http://www.jelajahinfo.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Jelajah Info - RSS\42 href\75\42http://www.jelajahinfo.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Jelajah Info - Atom\42 href\75\42https://www.blogger.com/feeds/8757781088801393468/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Jelajah Info - Atom\42 href\75\42http://www.jelajahinfo.com/feeds/8571527328343902090/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'postImageThumbnailUrl': 'http://2.bp.blogspot.com/-UvuKtruV3FA/VUbib-I-B2I/AAAAAAAAA5w/zmrjiqUf8Ic/s72-c/mempercepat%2Bkoneksi%2Binternet.JPG', 'postImageUrl': 'http://2.bp.blogspot.com/-UvuKtruV3FA/VUbib-I-B2I/AAAAAAAAA5w/zmrjiqUf8Ic/s1600/mempercepat%2Bkoneksi%2Binternet.JPG', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { (function(){function c(a){this.t\75{};this.tick\75function(a,c,b){var d\75void 0!\75b?b:(new Date).getTime();this.t[a]\75[d,c];if(void 0\75\75b)try{window.console.timeStamp(\42CSI/\42+a)}catch(e){}};this.tick(\42start\42,null,a)}var a;window.performance\46\46(a\75window.performance.timing);var h\75a?new c(a.responseStart):new c;window.jstiming\75{Timer:c,load:h};if(a){var b\75a.navigationStart,e\75a.responseStart;0\74b\46\46e\76\75b\46\46(window.jstiming.srt\75e-b)}if(a){var d\75window.jstiming.load;0\74b\46\46e\76\75b\46\46(d.tick(\42_wtsrt\42,void 0,b),d.tick(\42wtsrt_\42,\n\42_wtsrt\42,e),d.tick(\42tbsd_\42,\42wtsrt_\42))}try{a\75null,window.chrome\46\46window.chrome.csi\46\46(a\75Math.floor(window.chrome.csi().pageT),d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.chrome.csi().startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),null\75\75a\46\46window.gtbExternal\46\46(a\75window.gtbExternal.pageT()),null\75\75a\46\46window.external\46\46(a\75window.external.pageT,d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.external.startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),a\46\46(window.jstiming.pt\75a)}catch(k){}})();window.tickAboveFold\75function(c){var a\0750;if(c.offsetParent){do a+\75c.offsetTop;while(c\75c.offsetParent)}c\75a;750\76\75c\46\46window.jstiming.load.tick(\42aft\42)};var f\75!1;function g(){f||(f\75!0,window.jstiming.load.tick(\42firstScrollTime\42))}window.addEventListener?window.addEventListener(\42scroll\42,g,!1):window.attachEvent(\42onscroll\42,g);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/775fd8f05a569450', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'seotext', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/220370472-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1185134592-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+</script>
+</body>
+</HTML>

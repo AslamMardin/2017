@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>latihan pertamaa</title>
+<style>
+* {margin:0; paddding:0}
+body {margin:0 ; padding:0; background:#222222}
+form, input, textarea, body {color:#fff;}
+h1 {text-transform:uppercase; text-shadow:2px 1px 2px red; font-size:18px; border-bottom:2px solid red;
+margin:20px; padding:10px}
+.box {margin:0 auto; background:#171717; width:500px; position:relative; top:5px;}
+.box label {display:block; border-top:2px solid #262626; border-bottom:2px solid #262626}
+.box label span {width:100px; float:left; text-align:right; padding: 5px 20px 0 0; font:100% algerian; text-shadow:2px 1px red}
+.box .text {background:#161712; padding:10px; color:#fff; border:1px solid #262626; margin:5px; width:200px}
+.box .massage {height:100px; width:350px; background:#161712; font:12px tahoma; border:1px solid #262626; overflow:hidden}
+.box .submit {background:red; text-align:center; padding:2px; border:1px solid #262626; position:relative; left:350px;
+margin:10px; padding:5px; width:100px}
+</style>
+</head>
+<body>
+<div class="box">
+<form  name="form" method="post" action="success.html">
+<h1>confrim data</h1>
+<label><span>ful name</span>
+<input type="text" name="text" class="text" placeholder="nama anda"></label>
+<label><span>email</span>
+<input type="text" name="text" class="text" placeholder="@email.com"></label>
+<label><span>kata sandi</span>
+<input type="password" name="text" class="text" maxlength="30" placeholder="password"></label>
+<label><span>massage</span>
+<textarea name="text" class="massage"></textarea><input type="submit" name="submit" class="submit" value="search">
+</label>
+</form>
+</div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+body {text-align:center; }
+#page {margin: 0 auto; width:960px; text-align: left; 
+       background: url(finalfantasy.jpg) repeat-y;
+       text-align:left }
+#header {height: 123px; background:yellow; }
+#content-primary {float: right; width:765px; margin: 24px }
+#content-secondary {float:right; width:144px; background:#fff}
+#footer {clear:right; background:#829f60 }
+body {text-align:center; background: red; }
+#header p {padding: 5px; }
+#footer p {padding: 24px; }
+a:link, a:visited {color:#6c3; }
+a:hover {color:blue; }
+#header ul {padding-bottom: 10px; padding-right:12px; 
+text-align:right; 
+         list-style:none; }
+#header li {display: inline; margin:  13px; }
+#header li a {font-size: 1.25em; line-height: -14em; text-decoration:none; color:bleack;}
+#header li a:hover {color: blue; }

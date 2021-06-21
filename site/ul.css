@@ -1,0 +1,44 @@
+#page {width:960px; margin:0; padding:0; background:#dddddd}
+body {background:#161712; border:2px solid #1c1c1c; padding:2px; margin:0}
+#header {height:95px; background:#2e3138; width:960px; margin:10px; padding:10px; border:1px #262626 solid}
+#nav ul {display:inline; list-style:none; margin:0; text-position:relative; text-align:center; width:500px}
+#nav li {float:left; border:2px #262626 solid; text-align:center}
+#nav li a {font:16px algerian; text-decoration:none; padding:5px; float:right}
+#nav li a:hover {border-bottom:5px solid blue; background:#ddd}
+h2, h3 {text-shadow:1px 1px 1px red; border-bottom:1px solid #161712}
+#header, #content, #primary {float:left}
+#content {width:265px; padding:10px; text-align:left; margin:20px; background:#222222 }
+#primary {width:560px; padding-left:10px; text-align:left; background:#363f46;
+height:500px; padding:20px; margin:20px}
+#footer {background:#161712; width:945px; clear:left; padding:5px}
+img.logo {float:left; margin:5px}
+#center {float:left; height:70px; width:960px; display:block; }
+ul.container li {float:left; list-style:none; } 
+ul.container {width:500px; margin:5px;}
+ul.container li a {text-decoration:none; text-transform:uppercase; padding:5px; ; font-size:15px; 
+;border-bottom:1px solid blue; margin-left:20px; transition:all 0.4s ease-in-out}
+ul.container li a:hover {color:#fff; border-bottom:5px solid blue; box-shadow:inset 0 62px 0 red}
+ul.container li a.active{color:red; border-bottom:5px solid blue;}
+#footer textarea {background:#161712; color:#fff; border:2px double #fff; margin-bottom:-19px;
+float:left; margin-right:5px}
+h4 {text-shadow:2px 2px 2px blue}
+div.box {margin:10px; padding:0; display:block; margin-left:50px}
+div.box input.search {width:368px; background:#ddd url(kjljj.png) no-repeat -15px; height:30px; 
+padding:2px 0 2px 107px; color:red; border-left:2px solid black; text-shadow:1px 1px 1px red}
+div.box input.button {width:300pxpx; background:#ddd; height:30px; 
+padding:2px 3px 2px 3px; color:red;}
+div.box input.button:hover {background:#222222}
+div.box input.search:hover {border:2px solid red}
+div.input {text-align:left; border-top:1px solid #171717;  border-bottom:1px solid #171717; padding:7px}
+div.input input {color:#fff;}
+div.input .input {padding:2px; width:150px; background:#262626; border-top:1px solid #171717; 
+border-bottom:1px solid #171717; border-right:1px solid #333333; border-left:1px solid #333333;
+; height:20px; font-size:12px}
+div.input .password {padding:2px; width:150px; background:#262626; border-top:1px solid #171717; 
+border-bottom:1px solid #171717; border-right:1px solid #333333; border-left:1px solid #333333;
+; height:20px; font-size:12px}
+div.input .submit {padding:2px; width:80px; background:#161712; border-top:1px solid #171717; 
+border-bottom:1px solid #171717; border-right:1px solid #333333; border-left:1px solid #333333;
+; height:27px; font-size:12px; display:inline}
+div.input .submit:hover {background:#363f46}
+div.img {width:100px; height:156px}
